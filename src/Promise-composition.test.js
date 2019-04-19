@@ -1,7 +1,6 @@
 /* eslint-env jest */
 
-// Comment out this line to use the native Promise object
-// const Promise = require('./Promise');
+const Promise = require('./CustomPromise');
 
 describe('Promise - resolving and rejecting', () => {
   it('promises can be chained', (done) => {
