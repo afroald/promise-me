@@ -1,0 +1,14 @@
+{
+  "name": "promise-me",
+  "version": "1.0.0",
+  "description": "<https://www.youtube.com/watch?v=wEts0ncHhVA>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Roald Hacquebord <roald@zielma.kr>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
